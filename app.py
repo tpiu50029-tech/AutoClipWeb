@@ -186,4 +186,5 @@ setInterval(updateProgress,2000);
 
 <a href="/download_all" style="display:inline-block;padding:10px 20px;background:#4CAF50;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">📥 Baixar Todos</a>
 </body>
+
 </html>
